@@ -5,7 +5,7 @@ import time
 import re
 import os
 
-# Configuration
+# Configurations
 HOST = "localhost"
 PORT = 8081
 PASSWORD = "PasswordFromServerConfigFileForTelenetGoesHere"
