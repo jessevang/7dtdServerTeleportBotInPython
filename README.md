@@ -75,7 +75,7 @@ Join the game as a player and type these in global chat:
 - `/return` — Returns you to your previous position before teleporting to base.
 - `/help` — Shows available commands.
 
-⚠️ **Note:** Teleporting is **disabled during Blood Moon** by design.
+⚠️ **Note:** Teleporting is **disabled during Blood Moon** by design (not implimented yet).
 
 ---
 
