@@ -1,6 +1,6 @@
 # 🧭 7DTD Server Teleport Bot in Python
 
-A lightweight Python-based teleport bot that allows players to set a base, return to it, and teleport back to their last location using in-game chat commands. Works in 7DTD V2.0 with limited testing.
+A lightweight Python-based teleport bot that allows players to set a base, return to it, and teleport back to their last location using in-game chat commands. Works in Every 7DTD V2.2, V2.1, V2.0, V1.0 with limited testing, and should work for every version unless the in game commands gets updated.
 
 ---
 
